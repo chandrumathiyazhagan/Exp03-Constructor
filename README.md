@@ -4,17 +4,23 @@ To write a C# program to calculate the salary of an employee by passing the name
 
 ## Algorithm:
 
-### Step1:Develope C# program to calculate the salary of an employee
+### Step1:
+Develope C# program to calculate the salary of an employee
 
-### Step2:Get the input values from user
+### Step2:
+et the input values from user
 
-### Step3:create a function "salary"
+### Step3:
+create a function "salary"
 
-### Step4:Display the function of employee detail with gross salary
+### Step4:
+Display the function of employee detail with gross salary
 
-### Step5:Display the Output
+### Step5:
+Display the Output
 
-### Step6:End the Program.
+### Step6:
+End the Program.
 
 ## Program:
 ```python
@@ -83,7 +89,6 @@ class Program
 }
 ```
 ## Output:
-![image](https://github.com/chandrumathiyazhagan/Exp03-Constructor/assets/119393023/15b3ed10-ef69-4434-8e8b-6d6875037d3d)
-
+![image](/output.png)
 ## Result:
 Hence, C# program to calculate the salary of an employee is executted Successfully.
